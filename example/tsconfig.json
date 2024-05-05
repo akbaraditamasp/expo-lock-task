@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "expo-lock-task": ["../src/index"],
+      "expo-lock-task/*": ["../src/*"]
+    }
+  }
+}
