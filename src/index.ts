@@ -2,10 +2,6 @@
 // and on native platforms to ExpoLockTask.ts
 import ExpoLockTaskModule from "./ExpoLockTaskModule";
 
-export function hello(): string {
-  return ExpoLockTaskModule.hello();
-}
-
 export function isLocked(): boolean {
   return ExpoLockTaskModule.isLocked();
 }
