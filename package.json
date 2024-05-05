@@ -28,11 +28,9 @@
   "author": "akbaraditamasp <akbaraditamasp@gmail.com> (https://github.com/akbaraditamasp)",
   "license": "MIT",
   "homepage": "https://github.com/akbaraditamasp/expo-lock-task#readme",
-  "dependencies": {},
   "devDependencies": {
     "@types/react": "^18.0.25",
-    "expo-module-scripts": "^3.4.1",
-    "expo-modules-core": "^1.11.12"
+    "expo-module-scripts": "^3.4.1"
   },
   "peerDependencies": {
     "expo": "*",
