@@ -1,5 +1,5 @@
 {
-  "name": "expo-lock-task",
+  "name": "@akbaraditamasp/expo-lock-task",
   "version": "0.1.0",
   "description": "Start kiosk lock task",
   "main": "build/index.js",
